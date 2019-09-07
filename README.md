@@ -1,4 +1,4 @@
-# Classification_rawdata
+# Classification_Rawdata_MultieInput
 
 
 
@@ -34,7 +34,7 @@ https://drive.google.com/open?id=18eUlrHz3ll03WdgVzhFPcCg9W9ETWCdk
 
    <br>
 
-4. FNN Model = CNN Model.output + byte frequency input
+4. FNN Model = Merge[CNN Model.output + byte frequency input]
 
    <br>
 
